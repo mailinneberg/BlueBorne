@@ -3,3 +3,4 @@ The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulne
 
 | Join or Ask: Linnebergmai@gmail.com
 | Youtube: https://youtu.be/GTb4Y2Y9shw
+| Help PR.
