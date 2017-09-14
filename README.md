@@ -1,7 +1,7 @@
 # BlueBorne
 
 - Join or Ask: Linnebergmai@gmail.com
-- BlueBorne Youtube: https://youtu.be/FJGGMyg0W38
+- BlueBorne:  Youtube: https://youtu.be/FJGGMyg0W38
 - Broadpwn: https://goo.gl/xWC4hg    | Youtube: https://youtu.be/GTb4Y2Y9shw
 - Yalu Jailbreak iOS 10.3.1 : https://goo.gl/9cSSPU 
  
