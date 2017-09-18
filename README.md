@@ -11,7 +11,6 @@
 
 The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.
 
-
 # Introduction   to   Bluetooth
 
 Bluetooth   is   the   leading   and   most   widespread   protocol   for   short-range   communications. According   to    estimates ,   more   than   8.2   billion   Bluetooth   devices   are   currently   in   use,   and   the number   grows   by   the   day.   Bluetooth   is   implemented   in   a   very   wide   range   of   devices,   from   the most   popular   consumer   products   (Smartphones,   Wearables),   to   the   most   common   appliances   in enterprises   (PCs,   Smart   TVs,   Printers),   and   even   in   the   critical   infrastructure   of   our   lives   -   medical appliances,   cars,   and   many   more.   Bluetooth   is   managed,   licensed   and   maintained   by   the Bluetooth   Special   Interests   Group   (SIG),   which   includes   members   from   several   large   technology companies   such   as   Microsoft,   Intel,   Apple,   IBM,   and   more.
