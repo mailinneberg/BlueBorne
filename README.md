@@ -9,9 +9,9 @@
 
 To run, be sure to have pybluez and pwntools installed.
 
-  sudo apt-get install bluetooth libbluetooth-dev
-  sudo pip install pybluez
-  sudo pip install pwntools
+sudo apt-get install bluetooth libbluetooth-dev
+sudo pip install pybluez
+sudo pip install pwntools
 
 ![word2](https://user-images.githubusercontent.com/29992468/30438842-eccc0940-997a-11e7-9869-eb6c53161af2.png)
 
