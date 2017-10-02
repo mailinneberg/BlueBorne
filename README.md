@@ -15,8 +15,8 @@ sudo apt-get install bluetooth libbluetooth-dev
 sudo pip install pybluez
 sudo pip install pwntools
 ```
-![123](https://user-images.githubusercontent.com/29992468/31074822-1665c954-a77b-11e7-9790-3e023b507704.png)
-
+![321](https://user-images.githubusercontent.com/29992468/31075065-6300835c-a77c-11e7-88ae-42bc89c33084.png)
+(https://youtu.be/qTy5aC34GqI)
 The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.
 
 # Introduction   to   Bluetooth
