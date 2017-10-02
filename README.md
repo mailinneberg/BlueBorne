@@ -1,6 +1,7 @@
 # BlueBorne
 - Help   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L2B2WU2L67XP8)
 - Join or Ask: Linnebergmai@gmail.com
+- New Full: https://youtu.be/qTy5aC34GqI
 - BlueBorne: https://goo.gl/PSDuwY   | Youtube: https://youtu.be/FJGGMyg0W38
 - Broadpwn: https://goo.gl/xWC4hg    | Youtube: https://youtu.be/GTb4Y2Y9shw
 - Yalu Jailbreak iOS 10.3.1 : https://goo.gl/9cSSPU 
@@ -14,7 +15,7 @@ sudo apt-get install bluetooth libbluetooth-dev
 sudo pip install pybluez
 sudo pip install pwntools
 ```
-![word2](https://user-images.githubusercontent.com/29992468/30438842-eccc0940-997a-11e7-9869-eb6c53161af2.png)
+![123](https://user-images.githubusercontent.com/29992468/31074822-1665c954-a77b-11e7-9790-3e023b507704.png)
 
 The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.
 
