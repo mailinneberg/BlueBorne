@@ -18,8 +18,6 @@ sudo pip install pwntools
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/29992468/31075065-6300835c-a77c-11e7-88ae-42bc89c33084.png)](https://youtu.be/qTy5aC34GqI)
 
 
-![321](https://user-images.githubusercontent.com/29992468/31075065-6300835c-a77c-11e7-88ae-42bc89c33084.png)
-(https://youtu.be/qTy5aC34GqI)
 The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.
 
 # Introduction   to   Bluetooth
@@ -28,3 +26,4 @@ Bluetooth   is   the   leading   and   most   widespread   protocol   for   shor
 Though   it   was   first   introduced   to   the   world   in   1998,   Bluetooth   continues   to   develop   with   BLE   and Mesh   topology   as   the   most   interesting   examples.   BLE   (Bluetooth   Low   Energy)   is   the   cool   new variant   of   Bluetooth,   and   is   rapidly   gaining   ground   in   the   market   as   it   allows   a   new   generation   of devices,   such   as   “smart”   sensors   and   remote   controls,   which   have   limited   power   supply   and bandwidth   to   connect   to   existing   Bluetooth   devices   such   as   smartphones   and   PCs.   Aside   from BLE,   a   new   feature   was   introduced   in   Bluetooth   5.0   -   Bluetooth   Mesh.   This   new   feature   changes the   topology   of   Bluetooth   connections   by   allowing   low   level   devices   to   interconnect   and   form larger   networks   with   a   more   elaborate   and   dense   structure.   The   linked   nature   of   the   Mesh topology   enables   a   Bluetooth   network   to   spread   far   and   wide   and   allow   devices   on   the   far   ends of   it   to   communicate.   This   new   feature   is   an   attempt   by   the   Bluetooth   SIG   to   compete   with   other rising   short-range   wireless   protocols   (like   Zigbee,   Z-Wave,   LoRa   and   others)   in   handling   the   ever expanding   realm   of   smart   IoT   devices   and   its   unique   requirements.
 The   recent   developments   in   Bluetooth,   together   with   its   long   history,   are   what   make   this   protocol the   backbone   of   short   range   connectivity   in   the   vast   majority   of   devices   in   the   market.   The growing   reliance   on   wireless   connectivity   throughout   our   lives   is   likely   to   turn   this   protocol   into   an even   bigger   part   of   them,   and   of   the   devices   we   use.
 
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/29992468/31075239-387de20e-a77d-11e7-9335-1671ef70b855.png)](https://youtu.be/FJGGMyg0W38)
