@@ -1,5 +1,5 @@
 # BlueBorne
-- Help   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L2B2WU2L67XP8)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L2B2WU2L67XP8)
 - Join or Ask: Linnebergmai@gmail.com
 - New Full: https://youtu.be/qTy5aC34GqI
 - BlueBorne: https://goo.gl/PSDuwY   | Youtube: https://youtu.be/FJGGMyg0W38
