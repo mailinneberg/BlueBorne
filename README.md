@@ -12,7 +12,7 @@
 
 Now at this point, I am wondering if Armis left this information out of the white paper intentionally, if you send more packets to the device you can dump a lot more memory, and in this memory, you will see some interesting things. They say you can find "encryption key, address space and valuable pointers (of code and or data) that can be used to bypass ASLR while exploiting a separate memory corruption vulnerability", so let's see what I found!
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/29992468/32984048-b092df5e-ccaf-11e7-9faf-512dd4d59ead.png](https://youtu.be/n13JtClFG2w)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/29992468/32984048-b092df5e-ccaf-11e7-9faf-512dd4d59ead.png]()
 
 # To run, be sure to have pybluez and pwntools installed.
 ```
