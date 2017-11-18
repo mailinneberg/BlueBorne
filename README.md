@@ -14,7 +14,7 @@ Now at this point, I am wondering if Armis left this information out of the whit
 
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/29992468/32984048-b092df5e-ccaf-11e7-9faf-512dd4d59ead.png](https://youtu.be/n13JtClFG2w)
 
-# CVE-2017-0781   STEP 2    COMING SOON...
+### CVE-2017-0781   STEP 2    COMING SOON...
 
 # To run, be sure to have pybluez and pwntools installed.
 ```
